@@ -1,0 +1,42 @@
+[
+    {
+      "category": "Item 1",
+      "subCategory": [
+        {
+          "category": "Item 11",
+          "subCategory": []
+        }
+      ]
+    },
+    {
+      "category": "Item 2",
+      "subCategory": [
+        {
+          "category": "Item 21",
+          "subCategory": []
+        }
+      ]
+    },
+    {
+      "category": "Item 3",
+      "subCategory": [
+        {
+          "category": "Item 31",
+          "subCategory": []
+        },
+        {
+          "category": "Item 32",
+          "subCategory": [
+            {
+              "category": "Item 311",
+              "subCategory": []
+            },
+            {
+              "category": "Item 312",
+              "subCategory": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
